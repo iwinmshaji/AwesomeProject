@@ -39,6 +39,7 @@ const Section = ({children, title}) => {
         ]}>
         {title}
       </Text>
+          <Text></Text>
       <Text
         style={[
           styles.sectionDescription,
